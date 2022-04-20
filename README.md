@@ -1,6 +1,6 @@
 # A-Point-of-Sale-System
 
-Group no 4 and Name is Endless Eclipse
+Group no 4 and Group Name is Endless Eclipse
 
 1. Md Anwarul karim - 1627421
 2. Fahim mostafa jamal - 1734437
