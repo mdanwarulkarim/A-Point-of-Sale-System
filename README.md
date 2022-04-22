@@ -15,9 +15,9 @@ The required of the proejct is to develop a system given below in DART programmi
 **Fahim mostafa jamal - 1734437**
 I have done the listing for system. The List data type in Dart programming is similar to arrays in other programming languages. I used growable list type. Because It can be altered while the program is running. So that we can add more products in our list if we want. 
 
-Salam I’m **Nushrat Jahan Sadia - 1733912** . I have done my part . My part was the on with the beginning of the code . Explaining the my class and my cart class . 
+ **Nushrat Jahan Sadia - 1733912** . I have done my firt part . My part was the on with the beginning of the code . Explaining the my class and my cart class . 
 
-**Shishir al amin - 1825255**
+**Shishir al amin - 1825255**I have done the choose  part, which requires which brand is theyw want.
 
 **Antor Md Emran hossen - 1739373** I have done the choose quantity part,which will ask  the users to input how many quantities of product they want. I used the if statement with a condition. If the condition is true it will return the value to the main which user has input.  
 
